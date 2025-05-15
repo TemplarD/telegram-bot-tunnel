@@ -1,0 +1,7 @@
+aiogram>=3.0
+aiohttp>=3.8
+python-dotenv>=1.0
+pyngrok>=6.0
+sshtunnel>=0.4
+configparser>=5.3
+pywin32>=300  # Только для Windows (для CREATE_NEW_CONSOLE)

@@ -46,7 +46,7 @@
 
 ## 🇬🇧 English Version
 
-### 🤖 About Project
+### About Project
 This bot is a universal solution for deploying Telegram bots with 4 connection modes support.
 
 ### 🌟 Features
@@ -71,7 +71,7 @@ This bot is a universal solution for deploying Telegram bots with 4 connection m
    - Separate network monitoring logs
    - Log rotation
 
-### 🛠 Tech Stack
+### Tech Stack
 - **Python 3.10+** - core language
 - **Aiogram 3.x** - Telegram API
 - **Cloudflare Tunnel** - for Cloudflare mode

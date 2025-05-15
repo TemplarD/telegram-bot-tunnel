@@ -1,0 +1,15 @@
+# Virtual environment
+venv/
+.env
+
+# Logs
+logs/*
+
+# Cloudflare
+*.json
+.cert.pem
+
+# IDE
+.idea/
+.vscode/
+__pycache__/

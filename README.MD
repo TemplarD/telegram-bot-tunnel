@@ -1,4 +1,4 @@
-# Многорежимный Telegram Бот / Multi-Mode Telegram Bot
+# Многорежимный Telegram Бот с webhook / Multi-Mode Telegram Bot with webhook
 
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![Aiogram](https://img.shields.io/badge/aiogram-3.x-green)
